@@ -7,7 +7,7 @@ Here you will find all the information and data you will need for the computer p
 
 - MolGen2023_Manual - Manual with the exercises you should follow.
 
-- #### 1.Frogs - This directory contains the data for the first project.
+- #### [1.Frogs](1.Frogs) - This directory contains the data for the first project.
 
 - #### 2.Cichlids - This directory contains the data for the second project.
 

@@ -42,3 +42,5 @@ In case you don't have administrator's access to your computer, you can specify 
 `install.packages("BiocManager")`
 
 `BiocManager::install("LEA", dependencies = TRUE)`
+
+`install.packages("outliers", dependencies = TRUE)`
